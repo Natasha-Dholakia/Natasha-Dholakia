@@ -1,4 +1,4 @@
-### Hi there I'm Natasha 
+### Hi there I'm Natasha 👋
 
 
 <img src="https://github.com/Natasha-Dholakia/Snake/blob/output/github-contribution-grid-snake.gif" />
