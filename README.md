@@ -21,4 +21,5 @@ END_SECTION:comicstrip-->
 **Natasha-Dholakia/Natasha-Dholakia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to connect with you !</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Diversity and inclusion, which are the real grounds for creativity, must remain at the center of what we do.
+ ~<i> Marco Bizzarri </i> </b> :)</em>
