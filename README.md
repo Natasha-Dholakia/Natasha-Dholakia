@@ -23,3 +23,6 @@ END_SECTION:comicstrip-->
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b> Diversity and inclusion, which are the real grounds for creativity, must remain at the center of what we do.
  ~<i> Marco Bizzarri </i> </b> :)</em>
+ 
+ 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
