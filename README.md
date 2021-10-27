@@ -21,4 +21,4 @@ END_SECTION:comicstrip-->
 **Natasha-Dholakia/Natasha-Dholakia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
